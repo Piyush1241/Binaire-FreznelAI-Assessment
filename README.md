@@ -15,7 +15,7 @@ A web interface built with React, Vite, and TypeScript featuring an Adobe Spectr
 ### Prerequisites
 
 - Node.js (v18 or higher recommended)
-- npm or yarn
+- npm 
 
 ### Installation
 
@@ -38,7 +38,7 @@ Run the local development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) (or the URL shown in terminal) to view the application in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
 ### Build
 
@@ -56,7 +56,7 @@ npm run preview
 
 ## Tech Stack
 
-- **Frontend Framework**: React 18 + TypeScript
-- **Build Tool**: Vite
-- **Icons & Motion**: Lucide React, Framer Motion
-- **Backend Services**: Firebase
+- Frontend Framework: React 18 + TypeScript
+- Build Tool: Vite
+- Icons & Motion: Lucide React, Framer Motion
+- Backend Services: Firebase
